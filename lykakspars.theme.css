@@ -1,0 +1,11 @@
+//META{"name":"Lykakspars' Theme","description":"The First Theme","author":"lykakspars","version":"1.0"}*//{}
+
+.app {
+	background-image: url(http://i3.kym-cdn.com/photos/images/original/001/052/943/22f.jpg) !important;
+    background-size: cover !important;
+}
+
+.callout-backdrop {
+    background-image: url(http://i3.kym-cdn.com/photos/images/original/001/052/943/22f.jpg) !important;
+    background-size: cover !important;
+}
