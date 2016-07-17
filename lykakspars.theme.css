@@ -14,3 +14,13 @@ div[data-bd="backdrop"] {
     background-image: url(https://i.imgur.com/gKc4al2.jpg) !important;
     background-size: cover !important;
 }
+
+.message-wrapper {
+	background-image: url(https://i.imgur.com/gKc4al2.jpg) !important;
+    background-size: cover !important;
+}
+
+.chat .message {
+	background-image: url(https://i.imgur.com/NnPCn7k.png) !important;
+    background-size: cover !important;
+}
